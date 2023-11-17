@@ -1,2 +1,2 @@
 # CS-5990
-FInal project for secure distributed systems 
+FInal project for secure distributed computation
